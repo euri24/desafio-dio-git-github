@@ -2,3 +2,6 @@
 primeiro repositório/ desafio de projeto git/github para DIO
 
 ## Materiais de Apoio 
+
+- livros em pdf
+- guia do git
